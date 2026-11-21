@@ -1,6 +1,6 @@
 <!-- 打字机动画头部 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Liu+Zonghao+%C2%B7+%E5%88%98%E5%AE%97%E8%B1%AA;Hardware+%E2%86%92+Software+%E2%86%92+Ship+It;Build+Things+That+Actually+Run" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hardware+%E2%86%92+Software+%E2%86%92+Ship+It;Build+Things+That+Actually+Run;From+Soldering+Iron+to+GitHub+Actions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,10 +18,14 @@
 
 ### :zap: About Me
 
-- :wrench: 会画板、会焊接、会写 Windows 客户端
-- :robot: 把大模型 API 接进真正有人用的工具里
-- :building_construction: 18 岁拿到营业执照，跑过完整的商业流程
-- :trophy: 创办科技社团，带队拿过省级奖项
+- :wrench: 会画板、会焊接、会写 Windows 客户端——从 EDA 画 PCB 到自己焊，再到上电验证，整条链路自己走
+- :robot: 把大模型 API 接进真正有人用的工具里，日常用 Codex / Claude Code 等 agent 工具干活
+- :building_construction: 自己名下有营业执照，跑过完整的商业流程，有运营网店经验
+- :trophy: 创办科技社团，带队拿过省级、市级、县级奖项
+- :computer: 做过 Windows 桌面客户端（Electron）、Android 端（Kotlin）、Python 脚本和自动化流水线
+- :shield: 网络安全、渗透测试、抓包、反编译、SRC 平台漏洞提交
+- :phone: 手机刷机 Root、路由器刷固件、设备折腾，硬件到系统都敢拆
+- :factory: 对接过工厂打 PCBA，熟悉从打样到小批量的生产流程；自己也玩 3D 打印
 - :speech_balloon: 比起「学过什么」，更习惯用「做出了什么、跑起来没有」来说明问题
 
 </td>
@@ -79,6 +83,9 @@
 
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Magisk](https://img.shields.io/badge/Magisk-00AF9C?style=flat&logo=android&logoColor=white)
 
 </td>
 </tr>
@@ -136,15 +143,6 @@
 
 ---
 
-### :trophy: Achievements
-
-| 时间 | 赛事 / 资质 | 结果 |
-| :---: | :--- | :---: |
-| 2025.04 | 第十一届全国青年科普创新实验暨作品大赛（广东选拔）· 未来太空车 | **省级三等奖** |
-| 2024.11 | 第五届广东省全民科学素质大赛 | **省级优胜奖** |
-| 2024.04 | 饶平县中小学创客文化节暨青少年机器人大赛 · 智慧城市 | **县级三等奖** |
-| 2023.11 | 阿里云云计算工程师 ACA 认证 | **已通过** |
-
 ---
 
 ### :briefcase: Experience
@@ -152,7 +150,7 @@
 ```
 2026.08 ─── 个人工作室 · 法人
               产品设计 → 销售 → 对公账户 → 税务，整条业务自己跑
-              已与一家企业签订合同
+              已与某上市企业签订合同
 
 2024.04 ─── 科技社团 · 创始人 / 社长
 2025.09     教学、带比赛、物料采购、活动规划
@@ -183,8 +181,6 @@
 ---
 
 <div align="center">
-
-:round_pushpin: 深圳 · 潮州饶平 &nbsp;&nbsp;|&nbsp;&nbsp; :e-mail: Open an Issue to connect
 
 <sub>失败调用如实记录，不补写、不美化。</sub>
 
